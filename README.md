@@ -16,11 +16,13 @@ supported by :
 * Data Analysis : analisis yang dilakukan adalah eksploratory analysis dengan melakukan modeling data menggunakan query sql untuk mengetahui retensi pelanggan
 ### **Tahapan Tahapan Analisa** :
 1. Analisa kinerja keseluruhan
-<span>-&nbsp; Revenue meningkat 4% dibanding tahun sebelumnya.</span><div><span>-&nbsp; Profit naik 4.6%, sedangkan profit margin hanya naik
-  0.6%, mengindikasikan pertumbuhan profit berasal dari
-  peningkatan volume&nbsp; penjualan, bukan peningkatan efisiensi.</span></div><div><span>- Wholesale masih menjadi kontributor terbesar terhadap
-  penjualan (38%)</span></div><div><span>- Personal Care memiliki profit margin tertinggi.</span></div><div><span>- Beverage memiliki profit margin terendah sehingga
-  menjadi kategori yang perlu dievaluasi.</span><br></div><div><span>-&nbsp;<span>Meskipun Units Sold sedikit menurun, Revenue dan Profit tetap meningkat. Hal ini mengindikasikan adanya peningkatan nilai penjualan per transaksi atau pergeseran ke produk dengan margin yang lebih tinggi.</span></span></div> 
+
+-  Revenue meningkat 4% dibanding tahun sebelumnya
+-  Profit naik 4.6%, sedangkan profit margin hanya naik 0.6%, mengindikasikan pertumbuhan profit berasal dari peningkatan volume penjualan, bukan peningkatan efisiensi.
+-  Wholesale masih menjadi kontributor terbesar terhadap penjualan (38%)
+-  Personal Care memiliki profit margin tertinggi.
+-  Beverage memiliki profit margin terendah sehingga menjadi kategori yang perlu dievaluasi
+-  Meskipun Units Sold sedikit menurun, Revenue dan Profit tetap meningkat. Hal ini mengindikasikan adanya peningkatan nilai penjualan per transaksi atau pergeseran ke produk dengan margin yang lebih tinggi. 
 2. Analisa kinerja penjualan
 4. Analisa Alokasi Promosi
 
