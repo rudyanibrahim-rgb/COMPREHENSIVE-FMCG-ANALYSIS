@@ -32,12 +32,16 @@ YoY Revenue = (1 + 0,007)(1 + 0,033) − 1 = 4,02%
 
 Angka ini konsisten dengan pertumbuhan revenue sekitar 4% yang terlihat pada dashboard kinerja keseluruhan. Dengan demikian, pertumbuhan revenue tampaknya lebih banyak didorong oleh peningkatan nilai per order dibandingkan pertumbuhan volume. Namun, kenaikan AOV belum dapat secara langsung diatribusikan kepada kenaikan harga per item karena dapat pula dipengaruhi oleh perubahan product mix.
 
+Secara Historis (2023 - 2025) volume sales secara keseluruhan berada di posisi puncaknya pada bulan desember dan pada desember 2025 mencatat penjualan tertinggi dalam 2 tahun terakhir
+
+10 Top brand ditempati oleh setidaknya 1 brand dari setiap kategori artinya semua kategori memberikan performa terbaiknya
+
 Beverages menjadi kategori dengan penjualan tertinggi dengan kontribusi **24,33%** lalu diikuti oleh snack sebesar **22,67%,** sebesar lalu personal care sebesar **18,35%** lalu household sebesar **17,89%** dan dairy & breakfast sebesar **16,76%** dengan selisih yang tidak terpaut jauh antar kategori menunjukkan pondasi revenue stream penjualan tidak tergantung pada 1 kategori.
 
 Namun yang perlu disorot disini adalah walaupun beverages memiliki quantity of sales yang tinggi jika dilihat dari segi profitabillitas sebagai bobot untuk mengukur kualitas penjualan maka beverages justru menyumbangkan profit terendah **(13,64%)** daripada kategori lainnya sedangkan Household menjadi kategori dengan kontribusi profit tertinggi **(26,71%)**, ini mengindikasikan bahwa kategori beverages bergantung pada kuantitas dan memiliki biaya satuan yang cukup tinggi, ini didukung setelah melihat lebih lanjut kepada kontribusi cogs pada setiap  kategori ternyata Beverages menyumbang COGS terbesar nomor 1 **(29,15%)** diikuti oleh kategori household **(20,66%)** 
 
-    <img width="1318" height="446" alt="image" src="https://github.com/user-attachments/assets/2d0ce23c-61c7-48ef-a000-5349a2885656" />
-  - 
+    
+ 
     
 
 
