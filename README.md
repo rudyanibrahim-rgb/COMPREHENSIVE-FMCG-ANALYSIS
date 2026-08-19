@@ -25,6 +25,7 @@ supported by :
 -  Meskipun Units Sold sedikit menurun, Revenue dan Profit tetap meningkat. Hal ini mengindikasikan adanya peningkatan nilai penjualan per transaksi atau pergeseran ke produk dengan margin yang lebih tinggi. 
 - United States menjadi wilayah dengan penjualan tertinggi
 2. Analisa kinerja penjualan
+  
 Secara keseluruhan, jumlah order meningkat sebesar 0,7% YoY, sementara Average Order Value (AOV) meningkat sebesar 3,3%. Di sisi lain, Average Quantity per Order menurun sebesar 0,9%, menunjukkan bahwa pertumbuhan nilai transaksi tidak didorong oleh peningkatan jumlah unit yang dibeli per order. Dengan menggunakan hubungan Revenue = Orders × AOV, implied revenue growth dapat dihitung sebagai:
 
 YoY Revenue = (1 + 0,007)(1 + 0,033) − 1 = 4,02%
