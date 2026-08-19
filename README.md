@@ -27,7 +27,7 @@ supported by :
 #### **2. Analisa kinerja penjualan**
 ##### **Overall Sales Performance**
 
-Secara keseluruhan, jumlah order meningkat sebesar **0,7% YoY**, sementara **Average Order Value (AOV)** meningkat sebesar **3,3%**. Di sisi lain, **Average Quantity per Order** menurun sebesar **0,9%**, menunjukkan bahwa peningkatan nilai transaksi tidak didorong oleh peningkatan jumlah unit yang dibeli dalam setiap order. Dengan menggunakan hubungan **Revenue = Orders × AOV**, implied revenue growth dapat dihitung sebesar **4,02%**, melalui perhitungan ((1+0,007)(1+0,033)-1). Angka tersebut konsisten dengan pertumbuhan revenue sekitar 4% pada dashboard, sehingga dapat disimpulkan bahwa **pertumbuhan revenue lebih banyak didorong oleh peningkatan nilai per order dibandingkan pertumbuhan volume**. Meskipun demikian, peningkatan AOV belum dapat secara langsung diatribusikan kepada kenaikan harga karena dapat pula dipengaruhi oleh perubahan **product mix**.
+Secara keseluruhan, jumlah order meningkat sebesar **0,7% YoY**, sementara **Average Order Value (AOV)** meningkat sebesar **3,3%**. Di sisi lain, **Average Quantity per Order** menurun sebesar **0,9%**, menunjukkan bahwa peningkatan nilai transaksi tidak didorong oleh peningkatan jumlah unit yang dibeli dalam setiap order. Dengan menggunakan hubungan **Revenue = Orders × AOV**, implied revenue growth dapat dihitung sebesar **4,02%**, melalui perhitungan **((1+0,007)(1+0,033)-1)**. Angka tersebut konsisten dengan pertumbuhan revenue sekitar 4% pada dashboard, sehingga dapat disimpulkan bahwa **pertumbuhan revenue lebih banyak didorong oleh peningkatan nilai per order dibandingkan pertumbuhan volume**. Meskipun demikian, peningkatan AOV belum dapat secara langsung diatribusikan kepada kenaikan harga karena dapat pula dipengaruhi oleh perubahan **product mix**.
 
 Secara historis, volume penjualan menunjukkan pola musiman dengan posisi tertinggi secara umum berada pada **bulan Desember**. Bahkan, **Desember 2025 mencatat volume penjualan tertinggi dalam dua tahun terakhir**, yang mengindikasikan adanya momentum penjualan yang kuat pada periode akhir tahun. Dari sisi brand, **Top 10 brand mencakup setidaknya satu brand dari setiap kategori**, menunjukkan bahwa performa penjualan pada level brand relatif tersebar dan tidak hanya bergantung pada satu kategori tertentu. Namun, ketika dianalisis pada level produk, terdapat konsentrasi yang lebih jelas. **Top 10 product berdasarkan quantity sales terdiri dari lima produk Snacks dan lima produk Beverages**, menunjukkan bahwa volume penjualan tertinggi lebih terkonsentrasi pada kedua kategori tersebut.
 
@@ -45,9 +45,9 @@ Beverages kemudian menjadi kategori yang paling perlu mendapatkan perhatian kare
 
 Jika ketiga perubahan tersebut dikombinasikan, implied revenue growth untuk Beverages adalah sekitar:
 
-[
-(1-0,014)(1-0,009)-1 \approx -2,29%
-]
+
+_(1-0,014)(1-0,009)-1 = -2,29%_
+
 
 Jadi, **secara implied, revenue Beverages mengalami kontraksi sekitar 2,3%**, yang menunjukkan bahwa kategori dengan kontribusi quantity sales terbesar justru sedang menghadapi tekanan dari sisi volume maupun transaction value. Ini menjadi particularly important karena Beverages juga merupakan kategori dengan kontribusi COGS terbesar dan profit contribution terendah. Dengan demikian, masalah pada Beverages bukan hanya **"sales-nya turun"**, tetapi terdapat indikasi bahwa **kategori dengan volume terbesar sekaligus memiliki kualitas revenue yang relatif rendah dan sedang mengalami deterioration pada seluruh KPI utama**.
 
