@@ -39,9 +39,10 @@ Namun, jika performa penjualan tidak hanya dinilai berdasarkan volume tetapi jug
 
 Temuan tersebut semakin relevan ketika dilihat dari sisi COGS. Beverages menyumbang **29,15% dari total COGS**, merupakan kontribusi COGS terbesar di antara seluruh kategori, sedangkan Household menyumbang **20,66%**. Dengan demikian, tingginya volume Beverages disertai dengan beban COGS yang relatif besar. **Temuan ini mengindikasikan bahwa Beverages memiliki revenue-to-profit conversion yang relatif rendah**, meskipun untuk menyimpulkan bahwa kategori tersebut memiliki *unit cost* yang lebih tinggi diperlukan analisis lanjutan terhadap COGS per unit atau gross margin.
 
-##### **Beverages Diagnostic**
+<img width="1079" height="398" alt="image" src="https://github.com/user-attachments/assets/07694a9e-323b-4963-a459-8de4fd6b1244" />
 
-Beverages kemudian menjadi kategori yang paling perlu mendapatkan perhatian karena selain memiliki volume penjualan tertinggi, **seluruh KPI utamanya justru mengalami penurunan**: Total Orders turun **1,4%**, AOV turun **0,9%**, dan Average Quantity per Order turun **2,9%**. Ini merupakan sinyal yang lebih kuat dibandingkan sekadar melihat penurunan salah satu KPI, karena penurunan terjadi secara simultan pada **frequency, transaction value, dan basket size**. Dengan kata lain, kategori Beverages tidak hanya kehilangan jumlah order, tetapi customer yang tetap melakukan transaksi juga cenderung membeli **lebih sedikit unit dengan nilai transaksi yang lebih rendah**.
+
+
 
 Jika ketiga perubahan tersebut dikombinasikan, implied revenue growth untuk Beverages adalah sekitar:
 
