@@ -15,6 +15,10 @@ supported by :
      
 ### **Executive Summary** 
   "Proyek analitik data menyeluruh yang berfokus pada analisis kinerja penjualan, efektivitas promosi, profitabilitas, dan faktor pendorong bisnis di industri FMCG."
+  tools : 
+  - Bigquery (SQL)
+  - Google Colab (Python)
+  - Looker Studio
 
 ### **Tahapan Tahapan project** :
 * Data Extraction :
@@ -61,12 +65,15 @@ Temuan tersebut semakin relevan ketika dilihat dari sisi COGS. Beverages menyumb
 <img width="1079" height="398" alt="image" src="https://github.com/user-attachments/assets/07694a9e-323b-4963-a459-8de4fd6b1244" />
 
 
+##### **Implied Reveneu Growth**
+
+Analisis ini bertujuan untuk mengetahui efek pertumbuhan penjualan setiap kategori terhadap reveneu keseluruhan dengan berlandaskan data jumlah Order_ID sebagai total order dan reveneu sebagai acuan basket value per order (AOV atau Average Order Value),
+- **rumus implied reveneu growth ((1+pertumbuhan total order)(1+pertumbuhan AOV))-1**
+  
+<img width="674" height="377" alt="image" src="https://github.com/user-attachments/assets/475e4768-c701-4784-bb38-2ede05455cef" />
 
 
-Jika ketiga perubahan tersebut dikombinasikan, implied revenue growth untuk Beverages adalah sekitar:
 
-
-_(1-0,014)(1-0,009)-1 = -2,29%_
 
 
 Jadi, **secara implied, revenue Beverages mengalami kontraksi sekitar 2,3%**, yang menunjukkan bahwa kategori dengan kontribusi quantity sales terbesar justru sedang menghadapi tekanan dari sisi volume maupun transaction value. Ini menjadi particularly important karena Beverages juga merupakan kategori dengan kontribusi COGS terbesar dan profit contribution terendah. Dengan demikian, masalah pada Beverages bukan hanya **"sales-nya turun"**, tetapi terdapat indikasi bahwa **kategori dengan volume terbesar sekaligus memiliki kualitas revenue yang relatif rendah dan sedang mengalami deterioration pada seluruh KPI utama**.
