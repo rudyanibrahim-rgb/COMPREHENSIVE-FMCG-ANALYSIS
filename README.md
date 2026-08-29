@@ -70,8 +70,11 @@ Temuan tersebut semakin relevan ketika dilihat dari sisi COGS. Beverages menyumb
 Analisis ini bertujuan untuk mengetahui efek pertumbuhan penjualan setiap kategori terhadap reveneu keseluruhan dengan berlandaskan data jumlah Order_ID sebagai total order dan reveneu sebagai acuan basket value per order (AOV atau Average Order Value),
 - **rumus implied reveneu growth ((1+pertumbuhan total order)(1+pertumbuhan AOV))-1**
 
+
 <img width="719" height="428" alt="image" src="https://github.com/user-attachments/assets/9c3d98b4-ed59-4776-a4e5-f2ea71d20dcc" />
 
+
+**TABEL ANALISA GROWTH REVENEU IMPACT :**
 <img width="665" height="227" alt="image" src="https://github.com/user-attachments/assets/c64d272a-9465-4947-a124-8d2639def3a4" />
 
 
@@ -79,7 +82,15 @@ Pertumbuhan revenue secara keseluruhan terutama didorong oleh kategori Dairy & B
 
 Temuan pada Beverages menjadi perhatian karena kategori ini memiliki revenue share terbesar, yaitu sekitar 25,87%, namun justru bertindak sebagai growth drag. Kontraksi tersebut terjadi karena kedua revenue driver Beverages melemah secara bersamaan: total order turun sekitar 1,72% dan AOV turun sekitar 0,85%, sehingga menghasilkan implied revenue growth sebesar −2,56%. Karena Beverages memiliki basis revenue terbesar, kontraksi tersebut memberikan tekanan yang relatif material terhadap pertumbuhan revenue perusahaan secara keseluruhan.
 
-Secara agregat, kontribusi pertumbuhan dari seluruh kategori menghasilkan overall revenue growth sekitar 3,63%. Pertumbuhan positif dari Dairy & Breakfast, Personal Care, Household, dan Snacks lebih dari cukup untuk mengompensasi kontraksi pada Beverages, sehingga revenue perusahaan secara keseluruhan tetap mengalami pertumbuhan. 
+Secara agregat, kontribusi pertumbuhan dari seluruh kategori menghasilkan overall revenue growth sekitar 3,63% (selaras dengan reveneu growth index di dashboard pertamay). Pertumbuhan positif dari Dairy & Breakfast, Personal Care, Household, dan Snacks lebih dari cukup untuk mengompensasi kontraksi pada Beverages, sehingga revenue perusahaan secara keseluruhan tetap mengalami pertumbuhan. 
+
+**Persebaran Performa Penjualan pada setiap produk dan brand**
+
+<img width="685" height="337" alt="image" src="https://github.com/user-attachments/assets/f2912563-798d-4661-9f34-d13e7cbacfa1" />
+
+
+
+
 
 
 
