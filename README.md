@@ -75,6 +75,8 @@ Analisis ini bertujuan untuk mengetahui efek pertumbuhan penjualan setiap katego
 
 
 **TABEL ANALISA GROWTH REVENEU IMPACT :**
+
+
 <img width="665" height="227" alt="image" src="https://github.com/user-attachments/assets/c64d272a-9465-4947-a124-8d2639def3a4" />
 
 
