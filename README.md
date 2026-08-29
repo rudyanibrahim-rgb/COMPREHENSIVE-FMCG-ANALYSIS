@@ -72,11 +72,9 @@ Analisis ini bertujuan untuk mengetahui efek pertumbuhan penjualan setiap katego
   
 <img width="674" height="377" alt="image" src="https://github.com/user-attachments/assets/475e4768-c701-4784-bb38-2ede05455cef" />
 
+Jika merujuk pada kalkulasi, Dairy & Breakfast menjadi kontributor pertumbuhan terbesar (2%) 
 
-
-
-
-Jadi, **secara implied, revenue Beverages mengalami kontraksi sekitar 2,3%**, yang menunjukkan bahwa kategori dengan kontribusi quantity sales terbesar justru sedang menghadapi tekanan dari sisi volume maupun transaction value. Ini menjadi particularly important karena Beverages juga merupakan kategori dengan kontribusi COGS terbesar dan profit contribution terendah. Dengan demikian, masalah pada Beverages bukan hanya **"sales-nya turun"**, tetapi terdapat indikasi bahwa **kategori dengan volume terbesar sekaligus memiliki kualitas revenue yang relatif rendah dan sedang mengalami deterioration pada seluruh KPI utama**.
+Jadi, **secara implied, revenue Beverages mengalami kontraksi sekitar 2,5%**, yang menunjukkan bahwa kategori dengan kontribusi quantity sales terbesar justru sedang menghadapi tekanan dari sisi volume maupun transaction value. Ini menjadi particularly important karena Beverages juga merupakan kategori dengan kontribusi COGS terbesar dan profit contribution terendah. Dengan demikian, masalah pada Beverages bukan hanya **"sales-nya turun"**, tetapi terdapat indikasi bahwa **kategori dengan volume terbesar sekaligus memiliki kualitas revenue yang relatif rendah dan sedang mengalami deterioration pada seluruh KPI utama**.
 
 Pada level produk, meskipun enam produk utama Beverages—**Energy Drink Zero (198.116), Energy Drink Classic (180.188), Instant Coffee Gold (159.112), Sparkling Water Berry (153.643), Sparkling Water Lemon (152.099), dan Green Tea (138.110)**—memiliki volume yang relatif berdekatan, sehingga tidak terdapat satu produk yang mendominasi secara ekstrem. Hal ini menunjukkan bahwa performa quantity sales dalam kategori Beverages relatif tersebar di antara beberapa *hero products*. Namun, pola tersebut berbeda ketika dilihat dari level brand. **FuelCore (120.075) dan AquaGlow (105.453)** memiliki volume yang jauh lebih tinggi dibandingkan **RoastTrail (46.739) dan ZenLeaf (45.430)**. Bahkan, dua brand dengan performa terendah memiliki volume **lebih dari 100% lebih rendah** dibandingkan FuelCore dan AquaGlow. Hal ini menunjukkan bahwa meskipun performa produk relatif tersebar, **brand performance dalam kategori Beverages lebih terkonsentrasi pada FuelCore dan AquaGlow**.
 
