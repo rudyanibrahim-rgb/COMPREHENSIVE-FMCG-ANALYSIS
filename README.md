@@ -26,7 +26,7 @@ supported by :
 * Data Cleaning : data dibersihkan dari data duplikat dan null values, setelah diperhatikan tidak  ada duplikasi data dan null values yang akan berpengaruh negatif ke analisis
 * Data Analysis : analisis yang dilakukan adalah eksploratory analysis dengan melakukan modeling data menggunakan query sql untuk mengetahui retensi pelanggan
 ### **Tahapan Tahapan Analisa** :
-#### **1. Analisa kinerja keseluruhan**
+**1. Analisa kinerja keseluruhan**
 
 -  Revenue meningkat 3.6% dibanding tahun sebelumnya
 -  Profit naik 4.2%, sedangkan profit margin hanya naik 0.5%, mengindikasikan pertumbuhan profit berasal dari peningkatan reveneu penjualan, bukan peningkatan efisiensi operasional.
@@ -36,8 +36,8 @@ supported by :
 -  Meskipun Units Sold sedikit menurun, Revenue dan Profit tetap meningkat. Hal ini mengindikasikan adanya peningkatan nilai penjualan per transaksi atau pergeseran ke produk dengan margin yang lebih tinggi. 
 - United States menjadi wilayah dengan penjualan tertinggi
   
-#### **2. Analisa kinerja penjualan**
-##### **Overall Sales Performance**
+**2. Analisa kinerja penjualan**
+**Overall Sales Performance**
 
 Secara keseluruhan, jumlah order meningkat sebesar **0,4% YoY**, sementara **Average Order Value (AOV)** meningkat sebesar **3,2%**. Di sisi lain, **Average Quantity per Order** menurun sebesar **-0,9%**, menunjukkan bahwa peningkatan nilai transaksi tidak didorong oleh peningkatan jumlah unit yang dibeli dalam setiap order. Dengan menggunakan hubungan **Revenue = Orders × AOV**, implied revenue growth dapat dihitung sebesar **3,61%**, melalui perhitungan **((1+0,004)(1+0,032)-1)**. Angka tersebut sesuai memvalidasi **pertumbuhan revenue lebih banyak didorong oleh peningkatan nilai per order dibandingkan pertumbuhan volume**. Meskipun demikian, peningkatan AOV belum dapat secara langsung diatribusikan kepada kenaikan harga karena dapat pula dipengaruhi oleh perubahan **product mix**.
 
@@ -54,7 +54,7 @@ TOP 10 PRODUCT :
 
 
 
-##### **Category Performance & Revenue Quality**
+**Category Performance & Revenue Quality**
 
 Dari sisi kontribusi quantity sales, **Beverages menjadi kategori dengan kontribusi terbesar sebesar 24,33%**, diikuti oleh Snacks **22,67%**, Personal Care **18,35%**, Household **17,89%**, dan Dairy & Breakfast **16,76%**. Selisih kontribusi antar kategori relatif tidak terlalu besar, yang menunjukkan bahwa **revenue stream perusahaan memiliki basis kategori yang cukup terdiversifikasi dan tidak bergantung secara berlebihan pada satu kategori**.
 
@@ -65,7 +65,7 @@ Temuan tersebut semakin relevan ketika dilihat dari sisi COGS. Beverages menyumb
 <img width="1079" height="398" alt="image" src="https://github.com/user-attachments/assets/07694a9e-323b-4963-a459-8de4fd6b1244" />
 
 
-##### **Implied Reveneu Growth**
+**Implied Reveneu Growth**
 
 Analisis ini bertujuan untuk mengetahui efek pertumbuhan penjualan setiap kategori terhadap reveneu keseluruhan dengan berlandaskan data jumlah Order_ID sebagai total order dan reveneu sebagai acuan basket value per order (AOV atau Average Order Value),
 - **rumus implied reveneu growth ((1+pertumbuhan total order)(1+pertumbuhan AOV))-1**
