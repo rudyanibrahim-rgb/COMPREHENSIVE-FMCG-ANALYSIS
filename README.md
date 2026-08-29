@@ -19,8 +19,8 @@ supported by :
 ### **Tahapan Tahapan Analisa** :
 #### **1. Analisa kinerja keseluruhan**
 
--  Revenue meningkat 4% dibanding tahun sebelumnya
--  Profit naik 4.6%, sedangkan profit margin hanya naik 0.6%, mengindikasikan pertumbuhan profit berasal dari peningkatan volume penjualan, bukan peningkatan efisiensi.
+-  Revenue meningkat 3.6% dibanding tahun sebelumnya
+-  Profit naik 4.2%, sedangkan profit margin hanya naik 0.5%, mengindikasikan pertumbuhan profit berasal dari peningkatan reveneu penjualan, bukan peningkatan efisiensi operasional.
 -  Wholesale masih menjadi kontributor terbesar terhadap penjualan (38%)
 -  Personal Care memiliki profit margin tertinggi.
 -  Beverage memiliki profit margin terendah sehingga menjadi kategori yang perlu dievaluasi
@@ -30,9 +30,20 @@ supported by :
 #### **2. Analisa kinerja penjualan**
 ##### **Overall Sales Performance**
 
-Secara keseluruhan, jumlah order meningkat sebesar **0,4% YoY**, sementara **Average Order Value (AOV)** meningkat sebesar **3,2%**. Di sisi lain, **Average Quantity per Order** menurun sebesar **-0,9%**, menunjukkan bahwa peningkatan nilai transaksi tidak didorong oleh peningkatan jumlah unit yang dibeli dalam setiap order. Dengan menggunakan hubungan **Revenue = Orders × AOV**, implied revenue growth dapat dihitung sebesar **3,61%**, melalui perhitungan **((1+0,004)(1+0,032)-1)**. Angka tersebut dekat dengan pertumbuhan revenue sekitar 4% pada dashboard, sehingga dapat disimpulkan bahwa **pertumbuhan revenue lebih banyak didorong oleh peningkatan nilai per order dibandingkan pertumbuhan volume**. Meskipun demikian, peningkatan AOV belum dapat secara langsung diatribusikan kepada kenaikan harga karena dapat pula dipengaruhi oleh perubahan **product mix**.
+Secara keseluruhan, jumlah order meningkat sebesar **0,4% YoY**, sementara **Average Order Value (AOV)** meningkat sebesar **3,2%**. Di sisi lain, **Average Quantity per Order** menurun sebesar **-0,9%**, menunjukkan bahwa peningkatan nilai transaksi tidak didorong oleh peningkatan jumlah unit yang dibeli dalam setiap order. Dengan menggunakan hubungan **Revenue = Orders × AOV**, implied revenue growth dapat dihitung sebesar **3,61%**, melalui perhitungan **((1+0,004)(1+0,032)-1)**. Angka tersebut sesuai memvalidasi **pertumbuhan revenue lebih banyak didorong oleh peningkatan nilai per order dibandingkan pertumbuhan volume**. Meskipun demikian, peningkatan AOV belum dapat secara langsung diatribusikan kepada kenaikan harga karena dapat pula dipengaruhi oleh perubahan **product mix**.
 
 Secara historis, volume penjualan menunjukkan pola musiman dengan posisi tertinggi secara umum berada pada **bulan Desember**. Bahkan, **Desember 2025 mencatat volume penjualan tertinggi dalam dua tahun terakhir**, yang mengindikasikan adanya momentum penjualan yang kuat pada periode akhir tahun. Dari sisi brand, **Top 10 brand mencakup setidaknya satu brand dari setiap kategori**, menunjukkan bahwa performa penjualan pada level brand relatif tersebar dan tidak hanya bergantung pada satu kategori tertentu. Namun, ketika dianalisis pada level produk, terdapat konsentrasi yang lebih jelas. **Top 10 product berdasarkan quantity sales terdiri dari lima produk Snacks dan lima produk Beverages**, menunjukkan bahwa volume penjualan tertinggi lebih terkonsentrasi pada kedua kategori tersebut.
+
+TOP 10 BRAND : 
+
+<img width="484" height="242" alt="image" src="https://github.com/user-attachments/assets/4c63a60c-2f98-425e-b55a-640ef0e374f7" />
+
+TOP 10 PRODUCT :
+
+<img width="527" height="280" alt="image" src="https://github.com/user-attachments/assets/ef072596-370a-4d95-9c4d-9228016a9954" />
+
+
+
 
 ##### **Category Performance & Revenue Quality**
 
