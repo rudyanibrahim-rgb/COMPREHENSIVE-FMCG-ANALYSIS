@@ -91,6 +91,12 @@ Secara agregat, kontribusi pertumbuhan dari seluruh kategori menghasilkan overal
 **Persebaran Performa Penjualan pada setiap produk dan brand**
 
 <img width="685" height="337" alt="image" src="https://github.com/user-attachments/assets/f2912563-798d-4661-9f34-d13e7cbacfa1" />
+<img width="253" height="229" alt="image" src="https://github.com/user-attachments/assets/4d4d56fd-3201-4b06-9427-15d15225e510" /><img width="241" height="112" alt="image" src="https://github.com/user-attachments/assets/f7f64eba-3ee6-4bfc-a0a7-4b13e070e664" />
+
+
+
+Kategori Snacks menunjukkan performa penjualan yang paling merata di antara produk-produk unggulannya, tercermin dari coefficient of variation (CV) terendah, yaitu 6,09%. Angka tersebut menunjukkan bahwa penyimpangan penjualan antarproduk hanya sekitar 6,09% dari rata-rata penjualan kategori Snacks. Dengan kata lain, penjualan kategori ini tidak terlalu bergantung pada satu atau dua produk tertentu karena setiap produk unggulannya memiliki volume penjualan yang relatif konsisten. Kondisi tersebut berbeda dengan Personal Care, Household, Beverages, serta Dairy & Breakfast yang memiliki CV lebih tinggi, masing-masing sebesar 14,59%, 14,68%, 14,13%, dan 11,55%. Distribusi yang lebih merata ini mengindikasikan bahwa kategori Snacks memiliki portofolio produk yang lebih seimbang serta risiko konsentrasi penjualan yang lebih rendah. Oleh karena itu, apabila performa salah satu produk menurun, dampaknya terhadap keseluruhan penjualan kategori Snacks cenderung lebih terbatas karena penjualan turut ditopang oleh produk-produk lainnya.
+
 
 
 
