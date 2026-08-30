@@ -100,13 +100,7 @@ Secara agregat, kontribusi pertumbuhan dari seluruh kategori menghasilkan overal
 
 Kategori Snacks menunjukkan performa penjualan yang paling merata di antara produk-produk unggulannya, tercermin dari coefficient of variation (CV) terendah, yaitu 6,09%. Angka tersebut menunjukkan bahwa penyimpangan penjualan antarproduk hanya sekitar 6,09% dari rata-rata penjualan kategori Snacks. Dengan kata lain, penjualan kategori ini tidak terlalu bergantung pada satu atau dua produk tertentu karena setiap produk unggulannya memiliki volume penjualan yang relatif konsisten. Kondisi tersebut berbeda dengan Personal Care, Household, Beverages, serta Dairy & Breakfast yang memiliki CV lebih tinggi, masing-masing sebesar 14,59%, 14,68%, 14,13%, dan 11,55%. Distribusi yang lebih merata ini mengindikasikan bahwa kategori Snacks memiliki portofolio produk yang lebih seimbang serta risiko konsentrasi penjualan yang lebih rendah. Oleh karena itu, apabila performa salah satu produk menurun, dampaknya terhadap keseluruhan penjualan kategori Snacks cenderung lebih terbatas karena penjualan turut ditopang oleh produk-produk lainnya.
 
+**3. ANALISA DISTRIBUSI PROMOSI DAN EFEKTIFITASNYA PADA PROFITABILITAS**
+Produk tanpa promosi mendominasi volume pesanan pada seluruh kategori produk dan saluran penjualan. Kondisi ini menunjukkan bahwa sebagian besar transaksi masih berasal dari penjualan reguler, sehingga promosi belum menjadi pendorong utama penjualan perusahaan. Terdapat kemungkinan bahwa perusahaan menerapkan promosi secara selektif, misalnya hanya pada produk yang penjualannya lemah, memiliki persediaan berlebih, atau membutuhkan peningkatan awareness. Namun, dominasi produk tanpa promosi juga dapat mengindikasikan adanya peluang ekspansi promosi yang belum dimanfaatkan secara optimal, terutama apabila pertumbuhan revenue dan quantity sold cenderung stagnan.
 
-
-
-
-
-
-
-
-
-
+Dari sisi profitabilitas, transaksi tanpa promosi menghasilkan profit margin tertinggi, yaitu sekitar 25–26%. Loyalty Cashback memiliki margin yang hampir sama, sedangkan jenis promosi lainnya menghasilkan margin lebih rendah, berkisar antara 18–22%. Temuan ini menunjukkan bahwa dampak promosi terhadap profitabilitas berbeda-beda menurut jenisnya. Loyalty Cashback relatif mampu mempertahankan margin, sementara Festival Campaign dan Flash Discount memberikan tekanan margin yang lebih besar. Oleh karena itu, perusahaan sebaiknya tidak sekadar memperbanyak promosi, tetapi mengevaluasi efektivitas setiap jenis promosi berdasarkan tambahan penjualan dan profit yang dihasilkan. Promosi baru dapat dinilai efektif apabila peningkatan volume penjualan mampu mengompensasi penurunan margin per transaksi.
