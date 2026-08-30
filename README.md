@@ -70,7 +70,7 @@ Temuan tersebut semakin relevan ketika dilihat dari sisi COGS. Beverages menyumb
 <img width="1079" height="398" alt="image" src="https://github.com/user-attachments/assets/07694a9e-323b-4963-a459-8de4fd6b1244" />
 
 
-**Implied Reveneu Growth**
+**Implied Reveneu Growth & Reveneu Growth Contribution**
 
 Analisis ini bertujuan untuk mengetahui efek pertumbuhan penjualan setiap kategori terhadap reveneu keseluruhan dengan berlandaskan data jumlah Order_ID sebagai total order dan reveneu sebagai acuan basket value per order (AOV atau Average Order Value),
 - **rumus implied reveneu growth ((1+pertumbuhan total order)(1+pertumbuhan AOV))-1**
