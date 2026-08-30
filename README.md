@@ -91,7 +91,10 @@ Secara agregat, kontribusi pertumbuhan dari seluruh kategori menghasilkan overal
 **Persebaran Performa Penjualan pada setiap produk dan brand**
 
 <img width="685" height="337" alt="image" src="https://github.com/user-attachments/assets/f2912563-798d-4661-9f34-d13e7cbacfa1" />
-<img width="253" height="229" alt="image" src="https://github.com/user-attachments/assets/4d4d56fd-3201-4b06-9427-15d15225e510" /><img width="241" height="112" alt="image" src="https://github.com/user-attachments/assets/f7f64eba-3ee6-4bfc-a0a7-4b13e070e664" />
+
+
+
+<img width="241" height="112" alt="image" src="https://github.com/user-attachments/assets/f7f64eba-3ee6-4bfc-a0a7-4b13e070e664" /><img width="253" height="229" alt="image" src="https://github.com/user-attachments/assets/4d4d56fd-3201-4b06-9427-15d15225e510" />
 
 
 
