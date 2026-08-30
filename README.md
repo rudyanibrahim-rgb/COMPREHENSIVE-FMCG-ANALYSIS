@@ -5,7 +5,9 @@ supported by :
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 
 ### **link dashboard dan Notebook**
-[dashboard]<https://datastudio.google.com/reporting/e2d1aecd-caec-49a2-a8b5-115fe035f9b8>
+[dashboard](https://datastudio.google.com/reporting/e2d1aecd-caec-49a2-a8b5-115fe035f9b8)
+[Notebook](https://colab.research.google.com/drive/1NPu0dFfk-DdUbpODntTAwbz04qDOA8IR?usp=sharing)
+
 
 
 <img width="959" height="442" alt="image" src="https://github.com/user-attachments/assets/6e531afe-6c35-4e52-9850-34376aa1a996" />
